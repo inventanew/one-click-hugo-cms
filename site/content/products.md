@@ -11,7 +11,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/illustrations/coffee.svg
+    - image: /img/img_0982.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -99,5 +99,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
